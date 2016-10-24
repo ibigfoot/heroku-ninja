@@ -1,1 +1,2 @@
-web:    java $JAVA_OPTS -Dninja.mode=prod -jar target/dependency/jetty-runner.jar --port $PORT target/heroku-ninja.jar 
+web:    java $JAVA_OPTS -Dninja.mode=prod -Dninja.port=$PORT -jar target/heroku-ninja.jar 
+
