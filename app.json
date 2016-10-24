@@ -1,0 +1,6 @@
+{
+  "name": "Starter for Heroku and Ninja",
+  "description": "A stoopid simple heroku ninja application",
+  "repository": "https://github.com/ibigfoot/heroku-ninja",
+  "keywords": ["java", "ninja"]
+}
